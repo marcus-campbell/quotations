@@ -40,58 +40,58 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 *The most courageous act is to think for yourself. Aloud.* &ndash; Coco Chanel
 \
 \
-If we don't believe in freedom of expression for people we despise, we don't believe in it at all. - Noam Chomsky
+*If we don't believe in freedom of expression for people we despise, we don't believe in it at all.* &ndash; Noam Chomsky
 \
 \
-For myself, I am an optimist - it does not seem to be much use being anything else. - Winston Churchill
+*For myself, I am an optimist - it does not seem to be much use being anything else.* &ndash; Winston Churchill
 \
 \
-Art is not what you see, but what you make others see. - Edgar Degas
+*Art is not what you see, but what you make others see.* &ndash; Edgar Degas
 \
 \
-If I were to remain silent, I'd be guilty of complicity. - Albert Einstein
+*If I were to remain silent, I'd be guilty of complicity.* &ndash; Albert Einstein
 \
 \
-If you keep your cool, you'll get everything. - Elliot Erwitt
+*If you keep your cool, you'll get everything.* &ndash; Elliot Erwitt
 \
 \
-The wisest men follow their own direction. - Euripides
+*The wisest men follow their own direction.* &ndash; Euripides
 \
 \
-The finest language is mostly made up of simple unimposing words. - Mary Anne Evans
+*The finest language is mostly made up of simple unimposing words.* &ndash; Mary Anne Evans
 \
 \
-Humans are not a rational animal, but a rationalizing one. - Leon Festinger
+*Humans are not a rational animal, but a rationalizing one.* &ndash; Leon Festinger
 \
 \
-Any society that would give up a little liberty to gain a little security, deserves neither and shall lose both. -
+*Any society that would give up a little liberty to gain a little security, deserves neither and shall lose both.* &ndash;
 Benjamin Franklin
 \
 \
-A crown is just a hat that lets the rain in. - Frederick the Great
+*A crown is just a hat that lets the rain in.* &ndash; Frederick the Great
 \
 \
-I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has
-intended us to forgo their use. - Galileo Galilei
+*I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has
+intended us to forgo their use.* &ndash; Galileo Galilei
 \
 \
-Ordinary people know little of the time and effort it takes to learn to read. I have been 80 years at it, and have
-not reached my goal. - Johann von Goethe
+*Ordinary people know little of the time and effort it takes to learn to read. I have been 80 years at it, and have
+not reached my goal.* &ndash; Johann von Goethe
 \
 \
-The only sin is mediocrity. - Martha Graham
+*The only sin is mediocrity.* &ndash; Martha Graham
 \
 \
-Life is either a daring adventure, or nothing. - Helen Keller
+*Life is either a daring adventure, or nothing.* &ndash; Helen Keller
 \
 \
-The best way to nd out if you can trust somebody is to trust them. - Ernest Hemingway
+*The best way to find out if you can trust somebody is to trust them.* &ndash; Ernest Hemingway
 \
 \
-I am hitting my head against the walls, but the walls are giving way. - Gustav Mahler
+*I am hitting my head against the walls, but the walls are giving way.* &ndash; Gustav Mahler
 \
 \
-When a man only has a hammer, he tends to see every problem as a nail. - Abraham Maslow
+*When a man only has a hammer, he tends to see every problem as a nail.* &ndash; Abraham Maslow
 \
 \
 The cure for boredom is curiosity. There is no cure for curiosity. - Dorothy Parker
