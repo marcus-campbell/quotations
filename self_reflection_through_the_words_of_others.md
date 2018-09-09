@@ -37,135 +37,130 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 *Should you find yourself confronted by a swordsman, draw your sword. Do not attempt diplomacy with one who is not a diplomat.* &ndash; BUDDHIST PROVERB
 \
 \
-*The most courageous act is to think for yourself. Aloud.* &ndash; Coco Chanel
+*The most courageous act is to think for yourself. Aloud.* &ndash; COCO CHANEL
 \
 \
-*If we don't believe in freedom of expression for people we despise, we don't believe in it at all.* &ndash; Noam Chomsky
+*If we don't believe in freedom of expression for people we despise, we don't believe in it at all.* &ndash; NOAM CHOMSKY
 \
 \
-*For myself, I am an optimist - it does not seem to be much use being anything else.* &ndash; Winston Churchill
+*For myself, I am an optimist - it does not seem to be much use being anything else.* &ndash; WINSTON CHURCHILL
 \
 \
-*Art is not what you see, but what you make others see.* &ndash; Edgar Degas
+*Art is not what you see, but what you make others see.* &ndash; EDGAR DEGAS
 \
 \
-*If I were to remain silent, I'd be guilty of complicity.* &ndash; Albert Einstein
+*If I were to remain silent, I'd be guilty of complicity.* &ndash; ALBERT EINSTEIN
 \
 \
-*If you keep your cool, you'll get everything.* &ndash; Elliot Erwitt
+*If you keep your cool, you'll get everything.* &ndash; ELLIOT ERWITT
 \
 \
-*The wisest men follow their own direction.* &ndash; Euripides
+*The wisest men follow their own direction.* &ndash; EURIPIDES
 \
 \
-*The finest language is mostly made up of simple unimposing words.* &ndash; Mary Anne Evans
+*The finest language is mostly made up of simple unimposing words.* &ndash; MARY ANNE EVANS
 \
 \
-*Humans are not a rational animal, but a rationalizing one.* &ndash; Leon Festinger
+*Humans are not a rational animal, but a rationalizing one.* &ndash; LEON FESTINGER
 \
 \
 *Any society that would give up a little liberty to gain a little security, deserves neither and shall lose both.* &ndash;
-Benjamin Franklin
+BENJAMIN FRANKLIN
 \
 \
-*A crown is just a hat that lets the rain in.* &ndash; Frederick the Great
+*A crown is just a hat that lets the rain in.* &ndash; FREDERICK THE GREAT
 \
 \
 *I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has
-intended us to forgo their use.* &ndash; Galileo Galilei
+intended us to forgo their use.* &ndash; GALILEO GALILEI
 \
 \
 *Ordinary people know little of the time and effort it takes to learn to read. I have been 80 years at it, and have
-not reached my goal.* &ndash; Johann von Goethe
+not reached my goal.* &ndash; JOHANN VON GOETHE
+\
+*The only sin is mediocrity.* &ndash; MARTHA GRAHAM
 \
 \
-*The only sin is mediocrity.* &ndash; Martha Graham
+*Life is either a daring adventure, or nothing.* &ndash; HELEN KELLER
 \
 \
-*Life is either a daring adventure, or nothing.* &ndash; Helen Keller
+*The best way to find out if you can trust somebody is to trust them.* &ndash; ERNEST HEMINGWAY
 \
 \
-*The best way to find out if you can trust somebody is to trust them.* &ndash; Ernest Hemingway
+*I am hitting my head against the walls, but the walls are giving way.* &ndash; GUSTAV MAHLER
 \
 \
-*I am hitting my head against the walls, but the walls are giving way.* &ndash; Gustav Mahler
+*When a man only has a hammer, he tends to see every problem as a nail.* &ndash; ABRAHAM MASLOW
 \
 \
-*When a man only has a hammer, he tends to see every problem as a nail.* &ndash; Abraham Maslow
+*The cure for boredom is curiosity. There is no cure for curiosity.* &ndash; DOROTHY PARKER
 \
 \
-The cure for boredom is curiosity. There is no cure for curiosity. - Dorothy Parker
+*I am always doing that which I cannot do, so that I may learn how to do it.* &ndash; PABLO PICASSO
 \
 \
-I am always doing that which I cannot do, so that I may learn how to do it. - Pablo Picasso
+*True glory consists in doing what deserves to be written, and in writing what deserves to be read.* &ndash; PLINY THE ELDER
 \
 \
-True glory consists in doing what deserves to be written, and in writing what deserves to be read. - Pliny the
-Elder
+*Courage is not the lack of fear. It's knowing that something is more important than your fear.* &ndash; AMBROSE REDMOON
 \
 \
-Courage is not the lack of fear. It's knowing that something is more important than your fear. - Ambrose
-Redmoon
+*My whole religion is this: do every duty, and expect no reward for it, either here or hereafter.* &ndash; BERTRAND RUSSELL
 \
 \
-My whole religion is this: do every duty, and expect no reward for it, either here or hereafter. - Bertrand
-Russell
-\
-\
-Perfection is achieved not when there is nothing left to add, but when there is nothing left to take away. -
+*Perfection is achieved not when there is nothing left to add, but when there is nothing left to take away.* &ndash;
 ANTOINE DE SAINT-EXUPÉRY
 \
 \
-The reward for work well done is the opportunity to do more. - Jonas Salk
+*The reward for work well done is the opportunity to do more.* &ndash; JONAS SALK
 \
 \
-Those who cannot remember the past are condemned to repeat it. - George Santayana
+*Those who cannot remember the past are condemned to repeat it.* &ndash; GEORGE SANTAYANA
 \
 \
-All the world's a stage,\
-And all the men and women merely players.\
-They have their exits and their entrances;\
-And one man in his time plays many parts. - William Shakespeare
+*All the world's a stage,*\
+*And all the men and women merely players.*\
+*They have their exits and their entrances;*\
+*And one man in his time plays many parts.* &ndash; WILLIAM SHAKESPEARE
 \
 \
-Laws are like spider's webs: if some poor weak creature encounters one, it is ensnared - but something bigger
-can break through and get away. - Solon
+*Laws are like spider's webs: if some poor weak creature encounters one, it is ensnared - but something bigger
+can break through and get away.* &ndash; SOLON
 \
 \
-Man has become our greatest hazard, and our only hope. - John Steinbeck
+*Man has become our greatest hazard, and our only hope.* &ndash; JOHN STEINBECK
 \
 \
-Unless someone like you cares a whole awful lot,\
-Nothing is going to get better.\
-It's not. - DR. SUESS
+*Unless someone like you cares a whole awful lot,*\
+*Nothing is going to get better.*\
+*It's not.* &ndash; DR. SUESS
 \
 \
-The Earth is the cradle of the mind, but one cannot eternally live in a cradle. - Konstantin E. Tsiolkovsky
+*The Earth is the cradle of the mind, but one cannot eternally live in a cradle.* &ndash; KONSTANTIN E. TSIOLKOVSKY
 \
 \
-Victorious warriors win rst and then go to war, while defeated warriors go to war rst and then seek to win. -
-Sun-Tzu
+*Victorious warriors win first and then go to war, while defeated warriors go to war first and then seek to win.* &ndash;
+SUN-TZU
 \
 \
-The greatest deception men suer is from their own opinions. - Leonardo da Vinci
+*The greatest deception men suffer is from their own opinions.* &ndash; LEONARDO DA VINCI
 \
 \
-Fortune favours the bold. - Virgil
+*Fortune favours the bold.* &ndash; VIRGIL
 \
 \
-Doubt is not a pleasant mental state, but certainty is a ridiculous one. - Voltaire
+*Doubt is not a pleasant mental state, but certainty is a ridiculous one.* &ndash; VOLTAIRE
 \
 \
-True life is lived on the wire. The rest is just waiting. - Karl Wallenda
+*True life is lived on the wire. The rest is just waiting.* &ndash; KARL WALLENDA
 \
 \
-If you don't make mistakes, you aren't working on hard enough problems. That's a big mistake. - Frank
-Wilczek
+*If you don't make mistakes, you aren't working on hard enough problems. That's a big mistake.* &ndash; FRANK WILCZEK
 \
 \
-My work consists of two parts: that which I have done, and that which I have not done. And it is precisely the
-second part that matters to me. - Ludwig Wittgenstein
+*My work consists of two parts: that which I have done, and that which I have not done. And it is precisely the
+second part that matters to me.* &ndash; LUDWIG WITTGENSTEIN
 \
 \
-Do not wait to strike 'til the iron is hot. Make it hot, by striking. - William Butler Yeats
+*Do not wait to strike 'til the iron is hot. Make it hot, by striking.* &ndash; WILLIAM BUTLER YEATS
 
