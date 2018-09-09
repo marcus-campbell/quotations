@@ -78,6 +78,7 @@ intended us to forgo their use.* &ndash; GALILEO GALILEI
 *Ordinary people know little of the time and effort it takes to learn to read. I have been 80 years at it, and have
 not reached my goal.* &ndash; JOHANN VON GOETHE
 \
+\
 *The only sin is mediocrity.* &ndash; MARTHA GRAHAM
 \
 \
