@@ -27,7 +27,7 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 *There is a single light of science and to brighten it anywhere is to brighten it everywhere.* &ndash; ISAAC ASIMOV
 \
 \
-*Think of yourself as dead. You have lived your life. Now, take whats left and live it properly.* &ndash; MARCUS AURELIUS
+*Think of yourself as dead. You have lived your life. Now, take what is left and live it properly.* &ndash; MARCUS AURELIUS
 \
 \
 *To achieve greatness, two things are needed: a plan, and not quite enough time.* &ndash; LEONARD BERNSTEIN
@@ -85,4 +85,86 @@ Life is either a daring adventure, or nothing. - Helen Keller
 \
 \
 The best way to nd out if you can trust somebody is to trust them. - Ernest Hemingway
+\
+\
+I am hitting my head against the walls, but the walls are giving way. - Gustav Mahler
+\
+\
+When a man only has a hammer, he tends to see every problem as a nail. - Abraham Maslow
+\
+\
+The cure for boredom is curiosity. There is no cure for curiosity. - Dorothy Parker
+\
+\
+I am always doing that which I cannot do, so that I may learn how to do it. - Pablo Picasso
+\
+\
+True glory consists in doing what deserves to be written, and in writing what deserves to be read. - Pliny the
+Elder
+\
+\
+Courage is not the lack of fear. It's knowing that something is more important than your fear. - Ambrose
+Redmoon
+\
+\
+My whole religion is this: do every duty, and expect no reward for it, either here or hereafter. - Bertrand
+Russell
+\
+\
+Perfection is achieved not when there is nothing left to add, but when there is nothing left to take away. -
+ANTOINE DE SAINT-EXUPÉRY
+\
+\
+The reward for work well done is the opportunity to do more. - Jonas Salk
+\
+\
+Those who cannot remember the past are condemned to repeat it. - George Santayana
+\
+\
+All the world's a stage,\
+And all the men and women merely players.\
+They have their exits and their entrances;\
+And one man in his time plays many parts. - William Shakespeare
+\
+\
+Laws are like spider's webs: if some poor weak creature encounters one, it is ensnared - but something bigger
+can break through and get away. - Solon
+\
+\
+Man has become our greatest hazard, and our only hope. - John Steinbeck
+\
+\
+Unless someone like you cares a whole awful lot,\
+Nothing is going to get better.\
+It's not. - DR. SUESS
+\
+\
+The Earth is the cradle of the mind, but one cannot eternally live in a cradle. - Konstantin E. Tsiolkovsky
+\
+\
+Victorious warriors win rst and then go to war, while defeated warriors go to war rst and then seek to win. -
+Sun-Tzu
+\
+\
+The greatest deception men suer is from their own opinions. - Leonardo da Vinci
+\
+\
+Fortune favours the bold. - Virgil
+\
+\
+Doubt is not a pleasant mental state, but certainty is a ridiculous one. - Voltaire
+\
+\
+True life is lived on the wire. The rest is just waiting. - Karl Wallenda
+\
+\
+If you don't make mistakes, you aren't working on hard enough problems. That's a big mistake. - Frank
+Wilczek
+\
+\
+My work consists of two parts: that which I have done, and that which I have not done. And it is precisely the
+second part that matters to me. - Ludwig Wittgenstein
+\
+\
+Do not wait to strike 'til the iron is hot. Make it hot, by striking. - William Butler Yeats
 
