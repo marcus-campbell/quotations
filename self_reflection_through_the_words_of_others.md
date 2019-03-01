@@ -9,7 +9,7 @@ everything must be said again.* &ndash; ANDRÉ GIDE
 
 ___
 
-I am a shameless collector of quotations. Here are my favourites, ordered alphabetically by surname. I have checked each entry to ensure that it was actually said by the person that it is attributed to, and at some point I will add actual references. A few entries have been slightly paraphrased in order to improve their clarity in present-day English.
+I am a shameless collector of quotations. Here are my favourites, ordered alphabetically by surname. I have checked each entry to ensure that it was actually said by the person that it is attributed to, and eventually I will add actual references. A few entries have been paraphrased slightly in order to improve their clarity in present-day English.
 
 <br>
 
