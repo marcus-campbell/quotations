@@ -71,6 +71,9 @@ BENJAMIN FRANKLIN
 *A crown is just a hat that lets the rain in.* &ndash; FREDERICK THE GREAT
 \
 \
+*The best way to predict your future is to create it.* &ndash; DENNIS GABOR
+\
+\
 *I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has
 intended us to forgo their use.* &ndash; GALILEO GALILEI
 \
