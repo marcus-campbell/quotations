@@ -49,6 +49,9 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 *Art is not what you see, but what you make others see.* &ndash; EDGAR DEGAS
 \
 \
+*The hardest thing in the world is to have lived through a certain kind of paradigm for a very long period of time and then to realize that that paradigm is changing.* &ndash; STEVE EISMAN
+\
+\
 *If I were to remain silent, I'd be guilty of complicity.* &ndash; ALBERT EINSTEIN
 \
 \
