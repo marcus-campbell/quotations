@@ -106,9 +106,6 @@ not reached my goal.* &ndash; JOHANN VON GOETHE
 *I am always doing that which I cannot do, so that I may learn how to do it.* &ndash; PABLO PICASSO
 \
 \
-*True glory consists in doing what deserves to be written, and in writing what deserves to be read.* &ndash; PLINY THE ELDER
-\
-\
 *Courage is not the lack of fear. It's knowing that something is more important than your fear.* &ndash; AMBROSE REDMOON
 \
 \
@@ -157,6 +154,9 @@ SUN-TZU
 \
 \
 *Doubt is not a pleasant mental state, but certainty is a ridiculous one.* &ndash; VOLTAIRE
+\
+\
+*I believe that reading and writing are the most nourishing forms of meditation anyone has so far found. By reading the writings of the most interesting minds in history, we meditate with our own minds and theirs as well. This to me, is a miracle.* &ndash; KURT VONNEGUT, JR.
 \
 \
 *True life is lived on the wire. The rest is just waiting.* &ndash; KARL WALLENDA
