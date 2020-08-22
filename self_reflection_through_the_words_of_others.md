@@ -5,7 +5,7 @@
 But since no one was listening, everything must be said again.* &ndash; ANDRÉ GIDE
 
 <sub>First drafted on July 7th, 2012.</sub> \
-<sub>Last updated on October 25th, 2019.</sub>
+<sub>Last updated on August 21st, 2020.</sub>
 
 ___
 
@@ -107,6 +107,9 @@ not reached my goal.* &ndash; JOHANN VON GOETHE
 \
 \
 *Courage is not the lack of fear. It's knowing that something is more important than your fear.* &ndash; AMBROSE REDMOON
+\
+\
+*If you are interested, you never have to look for new interests. All you need to do is to be curious, receptive, eager for experience. When you are genuinely interested in one thing, it will always lead to something else.* &ndash; ELEANOR ROOSEVELT
 \
 \
 *My whole religion is this: do every duty, and expect no reward for it, either here or hereafter.* &ndash; BERTRAND RUSSELL
