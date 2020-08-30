@@ -55,7 +55,7 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 *If I were to remain silent, I'd be guilty of complicity.* &ndash; ALBERT EINSTEIN
 \
 \
-*Shallow men believe in luck. Strong men believe in cause and effect.*  &ndash; RALPH WALDO EMERSON
+*Shallow men believe in luck, in circumstances. Strong men believe in cause and effect.*  &ndash; RALPH WALDO EMERSON
 \
 \
 *If you keep your cool, you'll get everything.* &ndash; ELLIOT ERWITT
@@ -144,6 +144,9 @@ can break through and get away.* &ndash; SOLON
 *Unless someone like you cares a whole awful lot,*\
 *Nothing is going to get better.*\
 *It's not.* &ndash; DR. SUESS
+\
+\
+*It takes two to speak the truth, - one to speak, and another to hear.* &ndash; HENRY DAVID THOREAU
 \
 \
 *The Earth is the cradle of the mind, but one cannot eternally live in a cradle.* &ndash; KONSTANTIN E. TSIOLKOVSKY
