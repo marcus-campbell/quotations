@@ -5,7 +5,7 @@
 But since no one was listening, everything must be said again.* &ndash; ANDRÉ GIDE
 
 <sub>First drafted on July 7th, 2012.</sub> \
-<sub>Last updated on August 21st, 2020.</sub>
+<sub>Last updated on August 30th, 2020.</sub>
 
 ___
 
@@ -53,6 +53,9 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 \
 \
 *If I were to remain silent, I'd be guilty of complicity.* &ndash; ALBERT EINSTEIN
+\
+\
+*Shallow men believe in luck. Strong men believe in cause and effect.*  &ndash; RALPH WALDO EMERSON
 \
 \
 *If you keep your cool, you'll get everything.* &ndash; ELLIOT ERWITT
