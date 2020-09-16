@@ -149,7 +149,7 @@ can break through and get away.* &ndash; SOLON
 *It's not.* &ndash; DR. SUESS
 \
 \
-*It takes two to speak the truth, - one to speak, and another to hear.* &ndash; HENRY DAVID THOREAU
+*It takes two to speak the truth - one to speak, and another to hear.* &ndash; HENRY DAVID THOREAU
 \
 \
 *The Earth is the cradle of the mind, but one cannot eternally live in a cradle.* &ndash; KONSTANTIN E. TSIOLKOVSKY
