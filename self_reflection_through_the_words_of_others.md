@@ -179,7 +179,4 @@ SUN-TZU
 \
 *My work consists of two parts: that which I have done, and that which I have not done. And it is precisely the
 second part that matters to me.* &ndash; LUDWIG WITTGENSTEIN
-\
-\
-*Do not wait to strike 'til the iron is hot. Make it hot, by striking.* &ndash; WILLIAM BUTLER YEATS
 
