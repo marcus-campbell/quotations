@@ -5,7 +5,7 @@
 But since no one was listening, everything must be said again.* &ndash; ANDRÉ GIDE
 
 <sub>First drafted on July 7th, 2012.</sub> \
-<sub>Last updated on September 4th, 2020.</sub>
+<sub>Last updated on September 16th, 2020.</sub>
 
 ___
 
@@ -44,6 +44,9 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 \
 \
 *For myself, I am an optimist - it does not seem to be much use being anything else.* &ndash; WINSTON CHURCHILL
+\
+\
+*It's really easy to learn the wrong lessons from early success.* &ndash; PATRICK COLLISON
 \
 \
 *Art is not what you see, but what you make others see.* &ndash; EDGAR DEGAS
