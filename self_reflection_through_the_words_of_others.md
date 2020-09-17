@@ -94,10 +94,13 @@ not reached my goal.* &ndash; JOHANN VON GOETHE
 *The only sin is mediocrity.* &ndash; MARTHA GRAHAM
 \
 \
-*Life is either a daring adventure, or nothing.* &ndash; HELEN KELLER
-\
-\
 *The best way to find out if you can trust somebody is to trust them.* &ndash; ERNEST HEMINGWAY
+\
+\
+*Focusing is about saying no.* &ndash; STEVE JOBS
+\
+\
+*Life is either a daring adventure, or nothing.* &ndash; HELEN KELLER
 \
 \
 *I am hitting my head against the walls, but the walls are giving way.* &ndash; GUSTAV MAHLER
@@ -110,6 +113,9 @@ not reached my goal.* &ndash; JOHANN VON GOETHE
 \
 \
 *I am always doing that which I cannot do, so that I may learn how to do it.* &ndash; PABLO PICASSO
+\
+\
+*Any virtue that a man has, even if he has many vices, should not be used as a tool against him.* &ndash; ISIDOR RABI
 \
 \
 *Courage is not the lack of fear. It's knowing that something is more important than your fear.* &ndash; AMBROSE REDMOON
