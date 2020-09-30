@@ -16,6 +16,9 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 *It is easier to fight for one's principles than to live up to them.* &ndash; ALFRED ADLER
 \
 \
+*You may encounter many defeats, but you must not be defeated.*  &ndash; MAYA ANGELOU
+\
+\
 *Beware the man of one book.* &ndash; SAINT THOMAS AQUINAS
 \
 \
@@ -37,6 +40,9 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 *Should you find yourself confronted by a swordsman, draw your sword. Do not attempt diplomacy with one who is not a diplomat.* &ndash; BUDDHIST PROVERB
 \
 \
+*In the depths of winter, I finally learned that within me there lay an invincible summer.* &ndash; ALBERT CAMUS
+\
+\
 *The most courageous act is to think for yourself. Aloud.* &ndash; COCO CHANEL
 \
 \
@@ -46,10 +52,10 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 *For myself, I am an optimist - it does not seem to be much use being anything else.* &ndash; WINSTON CHURCHILL
 \
 \
-*It's really easy to learn the wrong lessons from early success.* &ndash; PATRICK COLLISON
-\
-\
 *Art is not what you see, but what you make others see.* &ndash; EDGAR DEGAS
+\
+\
+*In preparing for battle, I have always found that plans are useless but planning is indispensable.* &ndash; DWIGHT D. EISENHOWER
 \
 \
 *The hardest thing in the world is to have lived through a certain kind of paradigm for a very long period of time and then to realize that that paradigm is changing.* &ndash; STEVE EISMAN
