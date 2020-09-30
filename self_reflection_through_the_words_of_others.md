@@ -1,5 +1,5 @@
 
-### Self-Reflection Through the Words of Others
+# Self-Reflection Through the Words of Others
 
 *Everything that needs to be said has already been said.\
 But since no one was listening, everything must be said again.* &ndash; ANDRÉ GIDE
