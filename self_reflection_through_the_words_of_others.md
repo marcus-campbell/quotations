@@ -16,7 +16,7 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 *It is easier to fight for one's principles than to live up to them.* &ndash; ALFRED ADLER
 \
 \
-*You may encounter many defeats, but you must not be defeated.*  &ndash; MAYA ANGELOU
+*You will encounter many defeats, but you must not be defeated.*  &ndash; MAYA ANGELOU
 \
 \
 *Beware the man of one book.* &ndash; SAINT THOMAS AQUINAS
