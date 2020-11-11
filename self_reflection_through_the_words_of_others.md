@@ -64,7 +64,7 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 *If I were to remain silent, I'd be guilty of complicity.* &ndash; ALBERT EINSTEIN
 \
 \
-*Shallow men believe in luck, in circumstances. Strong men believe in cause and effect.*  &ndash; RALPH WALDO EMERSON
+*Shallow men believe in luck and circumstance. Strong men believe in cause and effect.*  &ndash; RALPH WALDO EMERSON
 \
 \
 *If you keep your cool, you'll get everything.* &ndash; ELLIOT ERWITT
