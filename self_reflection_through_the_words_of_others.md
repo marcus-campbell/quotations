@@ -5,7 +5,7 @@
 But since no one was listening, everything must be said again.* &ndash; ANDRÉ GIDE
 
 <sub>First drafted on July 7th, 2012.</sub> \
-<sub>Last updated on September 30th, 2020.</sub>
+<sub>Last updated on November 11th, 2020.</sub>
 
 ___
 
