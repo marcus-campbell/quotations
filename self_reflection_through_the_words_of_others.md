@@ -9,7 +9,7 @@ But since no one was listening, everything must be said again.* &ndash; ANDRÉ G
 
 ___
 
-I am a shameless collector of quotations. Here are my favourites, ordered alphabetically by each author's surname. I have checked each entry to ensure it is correctly attributed, and eventually I will add proper references. A few entries have been paraphrased slightly in order to improve their clarity in present-day English.
+I am a shameless collector of quotations. Here are my favourites, ordered alphabetically by each author's surname. I have verified each entry to ensure it is correctly attributed, and eventually I will add proper references. A few entries have been paraphrased slightly in order to improve their clarity in present-day English.
 
 <br>
 
