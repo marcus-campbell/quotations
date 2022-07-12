@@ -60,7 +60,6 @@ I am a shameless collector of quotations. Here are my favourites, ordered alphab
 \
 *The hardest thing in the world is to have lived through a certain kind of paradigm for a very long period of time and then to realize that that paradigm is changing.* &ndash; STEVE EISMAN
 \
-\
 <!--- Source, 2019: https://www.youtube.com/watch?v=OkfpTEVIcM8 --->
 *If I were to remain silent, I'd be guilty of complicity.* &ndash; ALBERT EINSTEIN
 \
