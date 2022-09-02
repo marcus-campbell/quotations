@@ -5,7 +5,7 @@ __*Everything that needs to be said has already been said.\
 But since no one was listening, everything must be said again.* &ndash; ANDRÉ GIDE__
 
 <sub>First drafted on July 7th, 2012.</sub> \
-<sub>Last updated on November 22nd, 2021.</sub>
+<sub>Last updated on July 12th, 2022.</sub>
 
 ___
 
