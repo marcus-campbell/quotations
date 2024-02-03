@@ -50,6 +50,10 @@ I am an eager collector of quotations. Here are my favourites, ordered alphabeti
 &ndash; BUDDHIST PROVERB
 \
 \
+*Be greedy when others are fearful, and be fearful when others are greedy.* \
+&ndash; WARREN BUFFETT
+\
+\
 *In the depths of winter, I finally learned that within me there lay an invincible summer.* \
 &ndash; ALBERT CAMUS
 \
@@ -136,7 +140,7 @@ not reached my goal.* \
 &ndash; HELEN KELLER
 \
 \
-*It never gets easier. You just get faster.*\
+*It never gets easier. You just get faster.* \
 &ndash; GREG LEMOND
 \
 \
