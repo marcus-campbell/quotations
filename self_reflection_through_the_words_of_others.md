@@ -70,6 +70,10 @@ I am an eager collector of quotations. Here are my favourites, ordered alphabeti
 &ndash; WINSTON CHURCHILL
 \
 \
+*You do not rise to the level of your goals. You fall to the level of your systems.* \
+&ndash; JAMES CLEAR
+\
+\
 *Art is not what you see, but what you make others see.* \
 &ndash; EDGAR DEGAS
 \
