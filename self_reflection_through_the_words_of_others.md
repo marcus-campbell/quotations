@@ -144,6 +144,10 @@ not reached my goal.* \
 &ndash; HELEN KELLER
 \
 \
+*Every actor has to make terrible films from time to time, but the trick is never to be terrible in them.* \
+&ndash; CHRISTOPHER LEE
+\
+\
 *It never gets easier. You just get faster.* \
 &ndash; GREG LEMOND
 \
