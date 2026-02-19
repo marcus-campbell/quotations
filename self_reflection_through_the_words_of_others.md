@@ -136,6 +136,10 @@ not reached my goal.* \
 &ndash; ERNEST HEMINGWAY
 \
 \
+*No man ever steps in the same river twice, for it is not the same river, and he is not the same man.* \
+&ndash; HERACLITUS
+\
+\
 *Focusing is about saying no.* \
 &ndash; STEVE JOBS
 \
