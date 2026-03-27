@@ -78,6 +78,10 @@ I am an eager collector of quotations. Here are my favourites, ordered alphabeti
 &ndash; EDGAR DEGAS
 \
 \
+*It takes something more than intelligence to act intelligently.* \
+&ndash; FYODOR DOSTOYEVSKY
+\
+\
 *In preparing for battle, I have always found that plans are useless but planning is indispensable.* \
 &ndash; DWIGHT D. EISENHOWER
 \
