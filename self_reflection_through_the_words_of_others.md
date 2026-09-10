@@ -1,12 +1,8 @@
 
 # Self-Reflection Through the Words of Others
 
-__*Everything that needs to be said has already been said.\
-But since no one was listening, everything must be said again.* \
-&ndash; ANDRÉ GIDE__
-
 <sub>First drafted on July 7th, 2012.</sub> \
-<sub>Last updated on March 11th, 2023.</sub>
+<sub>Last updated on September 10th, 2026.</sub>
 
 ___
 
@@ -26,7 +22,7 @@ I am an eager collector of quotations. Here are my favourites, ordered alphabeti
 &ndash; SAINT THOMAS AQUINAS
 \
 \
-*My favourite thing is to go where I've never been.* \
+*My favorite thing is to go where I've never been.* \
 &ndash; DIANE ARBUS
 \
 \
@@ -125,6 +121,10 @@ I am an eager collector of quotations. Here are my favourites, ordered alphabeti
 *I do not feel obliged to believe that the same God who has endowed us with sense, reason, and intellect has
 intended us to forgo their use.* \
 &ndash; GALILEO GALILEI
+\
+\
+*Everything that needs to be said has already been said. But since no one was listening, everything must be said again.* \
+&ndash; ANDRÉ GIDE
 \
 \
 *Ordinary people know little of the time and effort it takes to learn to read. I have been 80 years at it, and have
@@ -264,6 +264,10 @@ can break through and get away.* \
 \
 *If you don't make mistakes, you aren't working on hard enough problems. That's a big mistake.* \
 &ndash; FRANK WILCZEK
+\
+\
+*It is good to write clearly, and anyone can.* \
+&ndash; JOSEPH M. WILLIAMS
 \
 \
 *My work consists of two parts: that which I have done, and that which I have not done. And it is precisely the
