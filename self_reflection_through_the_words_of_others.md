@@ -2,7 +2,7 @@
 # Self-Reflection Through the Words of Others
 
 <sub>First drafted on July 7th, 2012.</sub> \
-<sub>Last updated on September 10th, 2026.</sub>
+<sub>Last updated on September 22nd, 2026.</sub>
 
 ___
 
