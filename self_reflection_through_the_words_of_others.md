@@ -6,7 +6,7 @@
 
 ___
 
-I am an eager collector of quotations. Here are my favourites, ordered alphabetically by each author's surname. I have verified each entry to ensure it is correctly attributed, and eventually I will add proper references. A few entries have been paraphrased slightly to improve their clarity in present-day English.
+I enjoy collecting quotations. Here are my favorites, ordered alphabetically by each author's last name. I've verified that each quote is properly attributed, and eventually I'll add proper references. A few entries are slightly paraphrased to improve their clarity in present-day English.
 
 <br>
 
