@@ -168,6 +168,10 @@ not reached my goal.* \
 &ndash; ABRAHAM MASLOW
 \
 \
+*It is remarkable how much long-term advantage people like us have gotten by trying to be consistently not stupid, instead of trying to be very intelligent.* \
+&ndash; CHARLIE MUNGER
+\
+\
 *The cure for boredom is curiosity. There is no cure for curiosity.* \
 &ndash; DOROTHY PARKER
 \
